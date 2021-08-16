@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Basic -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <!-- Mobile Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <!-- Site Metas -->
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+
+  <title>DP</title>
+<link rel="shortcut icon" type="image/jpg" href="https://freepngimg.com/download/microsoft/28348-7-microsoft-logo-hd.png"/>
+
+
+  <!-- bootstrap core css -->
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+  <!-- fonts style -->
+  <link href="https://fonts.googleapis.com/css?family=Poppins:400,700|Roboto:400,700&display=swap" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/style.css" rel="stylesheet" />
+  <!-- responsive style -->
+  <link href="css/responsive.css" rel="stylesheet" />
+
+
+
+
+  <link rel="stylesheet" href="css/css-circular-prog-bar.css">
+
+
+</head>
+
+<body>
+  <div class="top_container">
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container ">
+          <a class="navbar-brand" href="https://duypham2018.github.io/duyduy/index.html">
+            HOME
+          </a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
+              <ul class="navbar-nav  ">
+                <li class="nav-item active">
+                  <a class="nav-link" href="https://duypham2018.github.io/duyduy/index.html"> Trang Chủ <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item ">
+                  <a class="nav-link" href="https://duypham2018.github.io/duyduy/damme.html">Tác Giả </a>
+                </li>
+
+                <li class="nav-item">
+                  <a class="nav-link" href="https://duypham2018.github.io/duyduy/duan.html"> Dự Án </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://duypham2018.github.io/duyduy/nghiencuu.html"> Nghiên Cứu </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://duypham2018.github.io/duyduy/sanpham.html"> Sản Phẩm </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://duypham2018.github.io/duyduy/duyp.space"> Shop+ </a>
+                </li>
+
+              </ul>
+              <form class="form-inline my-2 my-lg-0 ml-0 ml-lg-4 mb-3 mb-lg-0">
+                <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit"></button>
+              </form>
+            </div>
+        </nav>
+      </div>
+    </header>
+
+  </div>
+  <!-- end header section -->
+
+
+  <!-- about section -->
+  <section class="about_section layout_padding">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="about_detail-box">
+            <h3 class="text-uppercase">
+             これ & この
+            </h3>
+            <p>
+              Cả KORE (cái này) và KONO (này) đều là những đại từ chỉ định để chỉ một vật ở gần người nói. Nhưng cách dùng thì khác nhau. Hãy lấy ví dụ về việc mua “quả táo” RINGO tại cửa hàng nhé. Thay vì nói RINGO, bạn có thể nói “cái này” KORE. Chẳng hạn, chỉ tay vào “quả táo”, bạn có thể nói “Cho tôi cái này” hay KORE O KUDASAI. Ngay cả khi bạn không biết từ RINGO thì bạn vẫn có thể mua táo.
+Nhưng bạn không thể sử dụng “này” KONO đứng một mình theo cách như vậy. Bạn luôn cần phải nói kèm một danh từ ở sau đó như là “quả táo này” KONO RINGO. Vì vậy “Cho tôi quả táo này” là KONO RINGO O KUDASAI.
+            </p>
+            <div class="d-flex justify-content-center justify-content-sm-start">
+              <a href="" class="sub_call_to-btn ">
+                <span>
+                  Read More
+                </span>
+                <img src="images/right-arrow.png" alt="">
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="about_img-box">
+            <img src="https://mk0gogonihonsps6abbx.kinstacdn.com/wp-content/uploads/2020/08/Kore-Sore-Are-BLOG-EN.png" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- end about section -->
+
+  
+  <!-- info section -->
+  <section class="info_section">
+    <div class="container ">
+      <div class="row custom_border-btm pb-4">
+        <div class="col-md-4 info_logo">
+          <h2>
+           Miu
+          </h2>
+          <p>
+              Coming Soon
+          </p>
+        </div>
+        <div class="col-md-4 info_address">
+          <h5>
+            Address
+          </h5>
+          <p>
+              236 Khuong Dinh Thanh Xuan Ha Noi
+          </p>
+          <p>
+            037.9996.457
+          </p>
+          <p>
+            duyphamamvn@gmail.com
+          </p>
+        </div>
+        <div class="col-md-4 info_news">
+          <h5>
+            Lời nhắn
+          </h5>
+          <form action="">
+            <div>
+              <input type="email" placeholder="Nhập email của bạn">
+            </div>
+            <div>
+              <button type="submit">
+                Subscribe
+              </button>
+            </div>
+          </form>
+        </div>
+
+      </div>
+    
+      <div>
+        <div class="info_social">
+          <div>
+           <a href="">
+              <img src="images/fb.png" alt="">
+           </a>
+          </div>
+          <div>
+           <a href="">
+              <img src="images/twitter.png" alt="">
+           </a>
+          </div>
+          <div>
+           <a href="https://www.youtube.com/channel/UCV78xuA0Xp8TOgqMM5xdRwQ">
+              <img src="images/youtube.png" alt="">
+           </a>
+          </div>
+          <div>
+            <a href="">
+                <img src="images/insta.png" alt="">
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- endsss info section -->
+
+<!-- end contact section -->
+
+<!-- footer section -->
+  <section class="container-fluid footer_section">
+    <p>
+      Copyright &copy; 2021 All Rights Reserved By
+      <a href="https://html.design/">Miu</a>
+    </p>
+  </section>
+  <!-- footer section -->
+
+  <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+  <script type="text/javascript" src="js/bootstrap.js"></script>
+  <!-- progreesbar script -->
+
+  </script>
+</body>
+
+</html>
